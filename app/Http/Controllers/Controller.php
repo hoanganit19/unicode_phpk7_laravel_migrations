@@ -11,8 +11,4 @@ use App\Models\User;
 class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
-    
-    
-    
-    
 }
